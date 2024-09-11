@@ -7,7 +7,7 @@
 
 # Screenshots
 
-
+Implement UI in app
 ![Screenshot 2024-09-11 at 11 27 02](https://github.com/user-attachments/assets/2a939021-c334-4f2d-97d7-414518d4ed69)
 ![Screenshot 2024-09-11 at 11 27 27](https://github.com/user-attachments/assets/f1bfb9f4-ec64-4a5f-b8d4-d2bc13e54b14)
 
