@@ -1,4 +1,10 @@
 # Password-Generator
+1. Install Node.js if you haven't already: https://nodejs.org/en/download/
+2. Make repository clone https://github.com/ninkov/Password-Generator.git
+3. Open terminal and make sure you in the right directory. Then enter 'npm i' to install all package
+4. Finally run in terminal 'npm run dev'  and check address: http://localhost:5173/ 
+
+
 # Screenshots
 
 ![Screenshot 2024-09-11 at 11 19 05](https://github.com/user-attachments/assets/523fe58b-1a16-49d9-8528-7353e47367b4)
